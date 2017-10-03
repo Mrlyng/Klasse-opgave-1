@@ -7,7 +7,7 @@ var loadedTypekitCount = 0;
 var loadedGoogleCount = 0;
 var gFontsUpdateCacheList = [];
 var tFontsUpdateCacheList = [];
-lib.ssMetadata = [
+lib.ssMetadata?[
 		{name:"Final_atlas_", frames: [[0,0,1200,1788],[0,1790,103,72],[105,1817,25,22],[370,1790,47,18],[316,1790,52,19],[469,1790,27,23],[257,1790,57,22],[419,1790,48,17],[105,1790,74,25],[257,1814,27,23],[181,1790,74,25]]}
 ];
 
